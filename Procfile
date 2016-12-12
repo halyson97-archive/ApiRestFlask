@@ -1,0 +1,1 @@
+web: gunicorn luizpira2.wsgi --log-file -
